@@ -40,7 +40,7 @@
 9. 增加迁移功能，原诗笺版和由理版用户可以将文件和数据便捷迁移到本APP中。由于增强版系列玩家较少，暂不打算为此更新增强版，请游玩增强版懒人包的用户请求懒人包制作者使用mt管理器注入文件提供器后可使用迁移功能
 10. 版本页增加扩展管理功能，可以查看或删除当前使用的游戏主体中已导入的扩展
 11. 增加设置页，具体功能请用户自行查看
-12. 本项目已经与[noname-shijian-android](https://github.com/nonameShijian/noname-shijian-android)合并，并且重新创建项目，所以本项目拥有了原诗笺版和原增强版的所有功能
+12. 本项目已经与[noname-shijian-android](https://github.com/nonameShijian/noname-shijian-android)合并，并且重新创建项目，所以本项目拥有了原诗笺版和原增强版的绝大多数功能
 
 ## 赞助
 
@@ -48,4 +48,9 @@
 
 赞助链接: [https://afdian.com/a/sjahkl](https://afdian.com/a/sjahkl)
 
-赞助名单列表(排名不分先后): 暂无
+赞助名单列表(排名不分先后): 
+
+| 用户名 | 金额 (元) |
+|  :---:  | :---:  |
+| [倘若](https://afdian.com/u/cdd9cecaf5cc11f09f0652540025c377)  | 50 |
+| [无名杀频道读书人](https://afdian.com/u/e14e2f8e437711ecae3252540025c377)  | 10 |
